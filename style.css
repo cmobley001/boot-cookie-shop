@@ -1,0 +1,23 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #fff8f0;
+}
+
+header .navbar-brand img {
+  margin-right: 10px;
+}
+
+.bg-cookie {
+  background-color: #473411;
+}
+.bg-soft-cookie {
+  background-color: #bb9479;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  font-size: 0.95rem;
+}
